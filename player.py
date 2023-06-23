@@ -15,4 +15,4 @@ class Payer():
             self.rect_ply.x=0
         if self.rect_ply.x >= 450:
             self.rect_ply.x=450
-        pygame.draw.rect(Game.scren,'green',self.rect_ply)
+        pygame.draw.rect(Game.scren,'green',self.rect_ply,border_radius=4)
