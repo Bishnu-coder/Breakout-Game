@@ -32,7 +32,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install pygame,pygamergui
+  pip3 install pygame,pygamergui
 ```
 
 Start the Game
